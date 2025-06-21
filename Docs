@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bohlale – Smart Academic Resource Finder</title>
+  <style>
+    body { font-family: sans-serif; margin: 40px; background: #f9f9f9; }
+    h1 { color: #3b3b3b; }
+    section { margin-bottom: 40px; }
+    .tag { background: #e1ecf4; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; }
+  </style>
+</head>
+<body>
+
+  <h1>🎓 Bohlale – AI-Powered Academic Resource Finder</h1>
+
+  <section>
+    <h2>🔍 About</h2>
+    <p>Bohlale is a smart platform that helps South African students access CAPS-aligned and university-specific academic materials like past papers, summaries, and notes. With OpenAI integration, students can search and receive summarized results, fast and focused on their module guides.</p>
+  </section>
+
+  <section>
+    <h2>🧠 Features</h2>
+    <ul>
+      <li>AI summarization of academic content</li>
+      <li>Secure student login</li>
+      <li>Upload and browse past papers and notes</li>
+      <li>Peer-to-peer community support</li>
+      <li>Mobile-first, low-data design</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📦 Tech Stack</h2>
+    <span class="tag">HTML</span>
+    <span class="tag">Django</span>
+    <span class="tag">SQLite</span>
+    <span class="tag">OpenAI API</span>
+    <span class="tag">Bootstrap (optional)</span>
+  </section>
+
+  <section>
+    <h2>📚 Sample Use Case</h2>
+    <p>A first-year student struggling with Python logs into Bohlale, searches "Python loops", and instantly receives a summarized CAPS-aligned answer and a shared PDF note uploaded by a senior student who passed the course.</p>
+  </section>
+
+  <section>
+    <h2>🤝 Team & Community</h2>
+    <p>This platform is built by students, for students. We believe in empowering each other through open knowledge and smart tools.</p>
+  </section>
+
+  <section>
+    <h2>📁 GitHub Repository</h2>
+    <p><a href="https://github.com/YOUR_USERNAME/bohlale-resource-finder">Visit the GitHub Repo</a></p>
+  </section>
+
+</body>
+</html>
 
